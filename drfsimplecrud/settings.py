@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'projects',
+    # this app is required to add in order django rest api to work well
     'rest_framework',
 ]
 
