@@ -4,4 +4,6 @@ This repostiory contains an rest api django example
 ### Technologies
 * django
 * django rest framework
+* ModelSerializer
+* ModelViewSet
 * sqllite
